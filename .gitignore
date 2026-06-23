@@ -1,0 +1,11 @@
+# History files
+.Rhistory
+
+# Session data files
+.RData
+
+# RStudio files
+.Rproj.user/
+.Renviron
+/.quarto/
+**/*.quarto_ipynb
