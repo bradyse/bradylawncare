@@ -3,7 +3,7 @@
     "path": "~/GitHub/bradylawncare/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "648432673",
+    "hash": "338244305",
     "contents": "",
     "dirty": false,
     "created": 1779149390495.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,23",
+        "cursorPosition": "8,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1782244655,
+    "lastKnownWriteTime": 1782319923,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1782244655417,
+    "last_content_update": 1782319923556,
     "read_only": false,
     "read_only_alternatives": []
 }
